@@ -1,0 +1,11 @@
+{
+    "name": "xxxxxxxx",
+    "minimum-stability": "dev",
+    "require": {
+        "illuminate/database": "^5.7" 
+    },
+    "require-dev": {},
+    "autoload": {},
+    "repositories" : [
+    ]
+}
