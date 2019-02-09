@@ -12,7 +12,7 @@ $capsule->addConnection([
     'host'      => 'mysql57',
     'database'  => '',
     'username'  => 'root',
-    'password'  => 'abcd1234',
+    'password'  => 'my_password',
     'charset'   => 'utf8mb4',
     'collation' => 'utf8mb4_unicode_ci',
     'prefix'    => '',
